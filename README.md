@@ -2,7 +2,7 @@
 
  Responsive Personal Landing Page
 
-This project is a responsive personal developer landing page 
+This project is a resposive personal developer landing page 
 
 Features
 - Responsive design for different screen sizes
